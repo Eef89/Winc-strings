@@ -4,17 +4,14 @@ Beste docent,
 
 Ik heb het bestand geupload en geen git gebruikt.
 
-Het is me gelukt om een git te maken in de folder van Strings. Dit na een tijdje uitzoek werk. In de video werd alleen uitgelegd om een folder met git te maken.
-Maar je kunt dus ook een git in folder plaatsen. 
-Ah fijn, vervolgens moest ik een wachtwoord invullen (na uitgevonden te hebben dat het paswoord via een token moest) kreeg ik de eror 403. Dus geen toegang to de folder?
+Uiteindelijk is het me wel gelukt om hem via SSH en terminal te uploaden naar Eef89/Winc.
+Het heeft me een paar uur gekost, maar dan heb je ook wat.
 
-Zouden jullie mij aan kunnen geven hoe ik dit kan oplossen eventueel? 
-Wellicht een betere les in git zou fijn zijn! Gewoon met duidelijke instructies. 
-Nu is het een bij elkaar geraapt ietsmet de boodschap "zoek het zelf maar even uit;)". 
-
-Dit snap ik zeker, want programmeren is vooral veel zelf uitzoeken. Echer ben ik van mening: zonder basiskennis, geen creativiteit. 
-
-Ik hoop dat het op deze manier goed is.
+Dan ook gelijk wat feedback voor wincacademy:
+Is de les van GIT worden geen duidelijk instructies gegeven. Sterker nog, het is gewoon van "hier wat info, zoek het maar uit". 
+Uiteindelijk lijkt het dat je het op deze manier moet uploaden, want zo staat het er. 
+Echter, wat schetste mijn vebazing, in slack werd aangegeven dat je ook het bestand gewoon rechtstreeks mag uploaden.
+Dit kan en moet echt beter uitgelegd worden. 
 
 Alvast hartelijk dank voor de feedback. 
 
